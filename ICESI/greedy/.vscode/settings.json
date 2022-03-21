@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "map": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
